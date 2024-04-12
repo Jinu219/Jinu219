@@ -1,4 +1,4 @@
-##🎵 x._.1nu :3
+## x._.1nu :3
 
 <!--
 **Jinu219/Jinu219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
