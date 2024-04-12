@@ -2,7 +2,7 @@
 
 <hr/>
 
-[Notion Kotlin Study]
+Notion Kotlin Study
 
 [Notion Kotlin Study]:https://www.notion.so/b90644c3bdd046f4abc8f136656cccca?v=0d76569dc8f743949ec1a147329bb448&pvs=4
 
