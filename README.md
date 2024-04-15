@@ -1,16 +1,16 @@
 # 💜
 
-### 🏫Dayeon High School ( Graduated 34th ) 
-### 🏫 Pukyong National University (PKNU)
+## 🏫Dayeon High School ( Graduated 34th ) 
+## 🏫 Pukyong National University (PKNU)
 <hr/>
 
-#### ☁️Atomosphere 24
-#### 💻Wap 2024-1 ~ 
-#### ❣️2006.02.19
+### ☁️Atomosphere 24
+### 💻Wap 2024-1 ~ 
+### ❣️2006.02.19
 
 <hr/>
 
-#### Plz Commit My FeedBack :3
+## Plz Commit My FeedBack :3
 [📙Notion Kotlin Study]
 
 <hr/>
