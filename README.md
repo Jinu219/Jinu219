@@ -1,6 +1,7 @@
-## x._.1nu :3
+#💜
 
-### 🏫 Pukyong National University(PKNU)
+### 🏫Dayeon High School ( Graduated 34th ) 
+### 🏫 Pukyong National University (PKNU)
 <hr/>
 
 #### ☁️Atomosphere 24
