@@ -1,7 +1,6 @@
 # 💜
 
-## 🏫Dayeon High School ( Graduated 34th ) 
-## 🏫 Pukyong National University (PKNU)
+## 🏫 Dayeon High School ( Graduated 34th ) Pukyong National University (PKNU)
 
 
 
