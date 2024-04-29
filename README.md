@@ -36,5 +36,5 @@
 ![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=cobalt)
 
 
-## 💮 Contact 💮
+### 💮 Contact 💮
 <a href="https://www.instagram.com/x._.inu/"> <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white" /></a>
