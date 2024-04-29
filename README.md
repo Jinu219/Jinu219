@@ -1,10 +1,7 @@
-# 💜
+# 
 
-</hr>
 
 ## 🎵 Introduce 🎵
-
-</hr> 
 
 🏫 Pukyong National University (PKNU)
 
