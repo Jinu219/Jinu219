@@ -25,7 +25,7 @@
 <a href="ttps://www.notion.so/Kotlin-Study-2a16086f9999426a9846fa77fea8013e?pvs=48&pvs=4"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white" />
 
 
-### 🍀Studying🍀
+### 🍀 Studying 🍀
 <img alt="Koltin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=black"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"> 
 
 
@@ -34,10 +34,10 @@
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white">
 
 
-### 🏢Collaboration Tool🏢
+### 🏢 Collaboration Tool 🏢
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?&style=flat&logo=Discord&logoColor=white"> <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=github&logoColor=white">
 
-### 🏷️Development 🏷️
+### 🏷️ Development 🏷️
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=flat&logo=visualstudio&logoColor=white"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white">  <img alt="obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?&style=flat&logo=obsidian&logoColor=white">  
 <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=github&logoColor=white">
 
