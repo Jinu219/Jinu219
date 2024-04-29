@@ -5,7 +5,7 @@
 ## 🎵 Introduce 🎵
 
 
-###🏫 Education🏫
+### 🏫Education🏫
 
 * Pukyong National University (PKNU)
 
