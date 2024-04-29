@@ -50,8 +50,6 @@
 <br/><br/>
 ![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=cobalt)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinu219)](https://solved.ac/jinu219/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu219)](https://github.com/anuraghazra/github-readme-stats&layout=compat)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinu219)](https://solved.ac/jinu219/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu219)](https://github.com/anuraghazra/github-readme-stats&layout=compat)
 
 
