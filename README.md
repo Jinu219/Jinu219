@@ -39,7 +39,7 @@
 
 ### 🏷️ Development 🏷️
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=flat&logo=visualstudio&logoColor=white"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=white">  <img alt="obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?&style=flat&logo=obsidian&logoColor=white">  
-<img alt="Github" src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=github&logoColor=white">
+<img alt="Github" src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=github&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=git&logoColor=white">
 
 ### 💮 Contact 💮
 <a href="https://www.instagram.com/x._.inu/"> <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white" /></a>
