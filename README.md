@@ -8,12 +8,7 @@ Dayeon High School ( Graduated 34th )
 
 <hr/>
 
-
-
-## Plz Commit My FeedBack :3
 <a href="https://www.notion.so/b90644c3bdd046f4abc8f136656cccca?v=0d76569dc8f743949ec1a147329bb448&pvs=4"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white" />
-[📙Notion Kotlin Study]
-
 <hr/>
 
 
