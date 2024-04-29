@@ -15,7 +15,7 @@
 
 
 ### ⭐ Experience
-> * 2024.03 ~ Programming Organization (WAP)
+> 2024.03 ~ Programming Organization (WAP)
 
 
 <br/><br/><br/>
