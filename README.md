@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=black&height=270&section=header&text=Jinu's+House&fontSize=90&fontColor=F0FFFF&animation=blinking) 
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=black&height=270&section=header&text=Jinu's+Community&fontSize=90&fontColor=F0FFFF&animation=blinking) 
 
 
 ## 🎵 Introduce 🎵
