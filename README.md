@@ -9,7 +9,7 @@
 
 * Pukyong National University (PKNU) <sub> Atomosphere of 2024 </sub>
 
-* Dayeon High School 34th <sub> 2021 ~ 2024 </sub>
+* Daeyeon High School 34th <sub> ( 2021 ~ 2024 ) </sub>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
