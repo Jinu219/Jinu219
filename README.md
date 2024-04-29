@@ -2,11 +2,13 @@
 
 </hr>
 
-## 🏫Pukyong National University (PKNU)
-Dayeon High School ( Graduated 34th ) 
+## 🎵 Introduce 🎵
+🏫 Pukyong National University (PKNU)
+      Atomosphere of 2024
+🏫 Dayeon High School 34th
 
 
-<img alt="Koltin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=black"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
+<img alt="Koltin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=black"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3 -1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
 
 ## 📖Kotlin Study📖
 
