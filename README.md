@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=444444&height=180&section=header&text=ᴊɪɴᴜ'ꜱ+ɢɪᴛʜᴜʙ&fontSize=90&fontColor=F0FFFF&animation=blink) 
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=444444&height=180&section=header&text=ᴊɪɴᴜ'ꜱ+ɢɪᴛʜᴜʙ&fontSize=90&fontColor=E0F5F5&animation=blink) 
 
 
 ## 🎵 Introduce 🎵
