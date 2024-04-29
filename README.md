@@ -12,6 +12,14 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
+
+
+
+
+<br/><br/><br/>
+
+<hr/>
+
 ### 📖 Kotlin Study 📖
 <a href="ttps://www.notion.so/Kotlin-Study-2a16086f9999426a9846fa77fea8013e?pvs=48&pvs=4"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white" />
 
@@ -28,17 +36,11 @@
 ### 🏢Collaboration Tool🏢
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?&style=flat&logo=Discord&logoColor=white"> 
 
+### 💮 Contact 💮
+<a href="https://www.instagram.com/x._.inu/"> <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white" /></a>
+<img alt="Gmail" src="https://img.shields.io/badge/x__1nu@pukyong.ac.kr-EA4335?&style=flat&logo=Gmail&logoColor=white" />
 
-
-<br/><br/><br/>
-
-<hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu219)](https://github.com/anuraghazra/github-readme-stats&layout=compat)
 
 ![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=cobalt)
-
-
-### 💮 Contact 💮
-<a href="https://www.instagram.com/x._.inu/"> <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white" /></a>
-<img alt="Gmail" src="https://img.shields.io/badge/x__1nu@pukyong.ac.kr-EA4335?&style=flat&logo=Gmail&logoColor=white" />
