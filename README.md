@@ -38,7 +38,7 @@
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?&style=flat&logo=Discord&logoColor=white"> 
 
 ### 🏷️Development 🏷️
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-007ACC.svg?&style=flat&logo=IntelliJVisual Studio IDEA&logoColor=white">
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=flat&logo=Visual Studio IDEA&logoColor=white">
 ### 💮 Contact 💮
 <a href="https://www.instagram.com/x._.inu/"> <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white" /></a>
 <img alt="Gmail" src="https://img.shields.io/badge/x__1nu@pukyong.ac.kr-EA4335?&style=flat&logo=Gmail&logoColor=white" />
