@@ -27,7 +27,7 @@
 
 ## 🏢Collaboration Tool🏢
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white">
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=flat&logo=InteliJ IDEA&logoColor=white"> 
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"> 
 <img alt="Discord" src="https://img.shields.io/badge/discord-5865F2.svg?&style=flat&logo=Discord IDEA&logoColor=white"> 
 
 ## 📖 Kotlin Study 📖
