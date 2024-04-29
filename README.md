@@ -4,14 +4,7 @@
 
 ## 🎵 Introduce 🎵
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=radical&hide=commits)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true)
+![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=radical)
 
 🏫 Pukyong National University (PKNU)
 
