@@ -8,11 +8,7 @@ Dayeon High School ( Graduated 34th )
 
 <hr/>
 
-### ☁️Atomosphere 24
-### 💻Wap 2024-1 ~ 
-### ❣️2006.02.19
 
-<hr/>
 
 ## Plz Commit My FeedBack :3
 [📙Notion Kotlin Study]
@@ -20,6 +16,7 @@ Dayeon High School ( Graduated 34th )
 <hr/>
 
 [🩵Instagram ] 
+<img alt="instagram" src ="https://img.shields.io/badge/instgram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>
 
 
 
