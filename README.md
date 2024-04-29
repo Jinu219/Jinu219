@@ -7,7 +7,7 @@
 
 ### 🏫Education🏫
 
-* Pukyong National University (PKNU) <sub> Atomosphere ( 2024.03.02 ~ ) </sub>
+* Pukyong National University (PKNU) <sub> Atomosphere Science ( 2024.03.02 ~ ) </sub>
 
 * Daeyeon High School 34th <sub> ( 2021.03.02 ~ 2024.02.06 ) </sub>
 
