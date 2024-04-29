@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=333333&height=180&section=header&text=ᴊɪɴᴜ'ꜱ+ɢɪᴛʜᴜʙ&fontSize=90&fontColor=FBFAFF&animation=blink) 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ## 🎵 Introduce 🎵
 
