@@ -4,7 +4,7 @@
 
 ## 🎵 Introduce 🎵
 
-![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=highcontrast)
+![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=cobalt)
 
 🏫 Pukyong National University (PKNU)
 
