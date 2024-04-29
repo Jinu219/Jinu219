@@ -4,11 +4,14 @@
 
 ## 🎵 Introduce 🎵
 
-🏫 Pukyong National University (PKNU)
 
-☁️ Atomosphere of 2024
+🏫 Education
 
-🏫 Dayeon High School 34th
+* Pukyong National University (PKNU)
+
+* Atomosphere of 2024
+
+* Dayeon High School 34th
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
