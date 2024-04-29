@@ -4,7 +4,6 @@
 
 ## 🎵 Introduce 🎵
 
-
 🏫 Pukyong National University (PKNU)
 
 ☁️ Atomosphere of 2024
@@ -33,5 +32,4 @@
 <a href="https://www.instagram.com/x._.inu/"> <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white" /></a>
 
 ![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=cobalt)
-![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=cobalt)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiun219)](https://github.com/anuraghazra/github-readme-stats)
