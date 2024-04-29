@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=black&height=270&section=header&text=𝐉𝐢𝐧𝐮'𝐬+𝐆𝐢𝐭𝐇𝐮𝐛&fontSize=90&fontColor=F0FFFF&animation=blink) 
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=black&height=270&section=header&text=ᴊɪɴᴜ'ꜱ+ɢɪᴛʜᴜʙ&fontSize=90&fontColor=F0FFFF&animation=blink) 
 
 
 ## 🎵 Introduce 🎵
