@@ -41,4 +41,4 @@
 
 ### 💮 Contact 💮
 <a href="https://www.instagram.com/x._.inu/"> <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white" /></a>
-<img alt="Gmail" src="https://img.shields.io/badge/x_1nu@pukyong.ac.kr-EA4335?&style=flat&logo=Gmail&logoColor=white" />
+<img alt="Gmail" src="https://img.shields.io/badge/x+_+1nu@pukyong.ac.kr-EA4335?&style=flat&logo=Gmail&logoColor=white" />
