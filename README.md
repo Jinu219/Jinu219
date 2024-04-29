@@ -4,7 +4,7 @@
 Dayeon High School ( Graduated 34th ) 
 
 
-<img alt="Koltin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=black"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white">> <img alt="HTML" src ="https://img.shields.io/badge/HTMLS-orange.svg?&style=flat&logo=HTMLS&logoColor=white"> <img alt="CSS" src ="https://img.shields.io/badge/CSS-3776AB.svg?&style=flat&logo=CSS&logoColor=white"/>
+<img alt="Koltin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=black"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-orange.svg?&style=flat&logo=HTML5&logoColor=white"> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-3776AB.svg?&style=flat&logo=CSS3&logoColor=white"/>
 
 <hr/>
 
