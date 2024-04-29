@@ -7,7 +7,7 @@
 
 ### 🏫Education🏫
 
-* Pukyong National University (PKNU) ~Atomosphere of 2024~
+* Pukyong National University (PKNU) <sup> Atomosphere of 2024 </sup>
 
 * Atomosphere of 2024
 
