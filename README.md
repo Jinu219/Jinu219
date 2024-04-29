@@ -12,20 +12,20 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-## 📖 Kotlin Study 📖
+### 📖 Kotlin Study 📖
 <a href="ttps://www.notion.so/Kotlin-Study-2a16086f9999426a9846fa77fea8013e?pvs=48&pvs=4"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white" />
 
 
-## 🍀Studying🍀
+### 🍀Studying🍀
 <img alt="Koltin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=black"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"> 
 
 
-## 📃 Language 📃
+### 📃 Language 📃
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3 -1572B6.svg?&style=flat&logo=CSS3&logoColor=white">
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white">
 
 
-## 🏢Collaboration Tool🏢
+### 🏢Collaboration Tool🏢
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?&style=flat&logo=Discord&logoColor=white"> 
 
 
