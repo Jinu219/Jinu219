@@ -11,14 +11,11 @@
 
 * Daeyeon High School 34th <sub> ( 2021.03.02 ~ 2024.02.06 ) </sub>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ### ⭐ Experience
 > 2024.03 ~ Programming Organization (WAP)
 
-
-<br/><br/><br/>
 
 <hr/>
 
