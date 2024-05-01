@@ -14,13 +14,13 @@
 
 
 ### ⭐ Experience
-> 2019.07 Programming Academy (KGITBANK)
+> 2018.03 ~ 2019.06 Programming Academy (KGITBANK)
 > 
-> 2021.03  Programming Organization (Andromeda)
+> 2021.03 ~ 2022.02 Programming Organization (Andromeda)
 > 
-> 2022.03  Programming Organization (ENIAC)
+> 2022.03 ~ 2023.02  Programming Organization (ENIAC)
 >
-> 2023.03 Programming Oranization (Machine Software)
+> 2023.03 ~ 2023.02 Programming Oranization (Machine Software)
 > 
 > 2024.03 ~ Programming Organization (WAP)
 
