@@ -14,6 +14,8 @@
 
 
 ### ⭐ Experience
+> 2019.07 Programming Academy (KGITBANK)
+> 
 > 2021.03  Programming Organization (Andromeda)
 > 
 > 2022.03  Programming Organization (ENIAC)
