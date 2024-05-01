@@ -14,6 +14,8 @@
 
 
 ### ⭐ Experience
+> 2021.03  Programming Organization (Andromeda)
+> 2022.03  Programming Organization (ENIAC)
 > 2024.03 ~ Programming Organization (WAP)
 
 
