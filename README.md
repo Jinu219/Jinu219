@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=ᴊɪɴᴜ'ꜱ+ɢɪᴛʜᴜʙ&fontSize=70&rotate=14&fontAlignY=35&fontAlign=70&descAlignY=43&descAlign=80&&animation=twinkling)
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JINU's+GITHUB&fontAlignY=40&fontSize=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=𝐉𝐈𝐍𝐔'𝐬+𝐆𝐈𝐓𝐇𝐔𝐁B&fontAlignY=40&fontSize=80&&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;Have+a+Good+Time!:3)](https://git.io/typing-svg)
 
