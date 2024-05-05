@@ -57,7 +57,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/x__1nu@pukyong.ac.kr-EA4335?&style=flat&logo=Gmail&logoColor=white" />
 
 
-<br/><br/><hr>
+<br/><hr>
 
 <div align="center">  
 
