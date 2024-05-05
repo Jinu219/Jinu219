@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=9966FF&height=180&section=header&text=ᴊɪɴᴜ+&fontSize=90&fontColor=FBFAFF&animation=blink) 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=ᴊɪɴᴜ+&fontSize=90&fontColor=FBFAFF&animation=blink) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;Have+a+Good+Time!:3)](https://git.io/typing-svg)
 
