@@ -54,7 +54,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/x__1nu@pukyong.ac.kr-EA4335?&style=flat&logo=Gmail&logoColor=white" />
 
 
-<br/><br/>
+<br/><br/><hr>
 ![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=cobalt)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu219)](https://github.com/jinu219/github-readme-stats&layout=compat)
  
