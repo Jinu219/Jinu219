@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=𝙹𝙸𝙽𝚄'𝚜+𝙶𝙸𝚃𝙷𝚄𝙱&fontAlignY=40&fontSize=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JÌñÚ'§+GÌ†HÚß&fontAlignY=40&fontSize=80&&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;Have+a+Good+Time!:3)](https://git.io/typing-svg)
 
