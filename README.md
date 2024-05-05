@@ -58,7 +58,7 @@
 ![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=cobalt)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinu219)](https://solved.ac/jinu219/)>
- <img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm">
+ <img src="http://mazandi.herokuapp.com/api?handle={jinu219}&theme=warm">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu219)](https://github.com/jinu219/github-readme-stats&layout=compat)
 
 
