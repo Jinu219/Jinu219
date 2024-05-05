@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=ᏠᎥᏁᏬ'Ꮥ+ᎶᎥᏖᏂᏬᏰ&fontAlignY=40&fontSize=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=ᏠᎥᏁᏬ'Ꮥ+ᎶᎥᏖᏂᏬᏰ&fontAlignY=40&fontSize=80&&animation=twinkling&&text=width="100%")
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;Have+a+Good+Time!:3)](https://git.io/typing-svg)
 
@@ -62,4 +62,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinu219)](https://solved.ac/jinu219/)
 <img src="http://mazandi.herokuapp.com/api?handle=jinu219&theme=warm">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
