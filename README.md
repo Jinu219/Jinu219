@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&fontAlignY=40&section=header&text=ᏠᎥᏁᏬ'Ꮥ+ᎶᎥᏖᏂᏬᏰ&fontSize=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&fontAlignY=40&section=header&text=ᏠᎥᏁᏬ'Ꮥ+ᎶᎥᏖᏂᏬᏰ&fontSize=75" width="100%"/>
 
-<!-- Title Typing Effect -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=B3E0FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jinu!+;Welcome+to+my+GitHub;Have+a+Good+Day+!" alt="Typing SVG" /></a>
 <br>
