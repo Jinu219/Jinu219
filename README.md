@@ -33,7 +33,7 @@
 <hr/>
 
 ### 📖 Kotlin Study 📖
-<a href="htps://www.notion.so/Kotlin-Study-2a16086f9999426a9846fa77fea8013e?pvs=48&pvs=4">
+<a href="htps://www.notion.so/Kotlin-Study-2a16086f9999426a9846fa77fea8013e?pvs=48&pvs=4">Notion </a>
 
 
 ### 🍀I'm Studing ... 🍀
