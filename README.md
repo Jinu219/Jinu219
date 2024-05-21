@@ -29,6 +29,8 @@
 > 
 > 2024.03 ~ Programming Club (WAP)
 
+### My Blog💫
+[blog](https://x-1nu.tistory.com/)
 
 <hr/>
 
