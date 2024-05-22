@@ -35,7 +35,7 @@
 <hr/>
 
 ### 📖 Kotlin Study 📖
-[Notion](https://www.notion.so/Programming-Study-2a16086f9999426a9846fa77fea8013e)
+[Notion](https://feline-nyala-7a4.notion.site/Programming-Study-2a16086f9999426a9846fa77fea8013e?pvs=74)
 
 ### 🍀I'm Studing ... 🍀
 <img alt="Koltin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=black"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"> 
