@@ -70,7 +70,13 @@
 
 <h3>Jinu's GitAnimals<h3>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Jinu219"/>
+  <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Jinu219"
+  width="600"
+  height="300"
+/>
+</a>
 </a>
  
 <br/>
