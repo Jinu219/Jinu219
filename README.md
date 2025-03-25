@@ -27,7 +27,9 @@
 >
 > 2023.03 ~ 2023.02 Programming Club (Machine Software)
 > 
-> 2024.03 ~ PKNU Programming Club (WAP) 29th
+> 2024.03 ~ 2025.03 PKNU Programming Club (WAP) 29th
+>
+> 2025.03 ~ PKNU EarthScience Programming Club 1th
 
 <br/>
 
