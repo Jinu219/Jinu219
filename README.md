@@ -39,11 +39,13 @@
  <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
  </div>
-</p>
 <br/>
 <br/>
+
+
 ## 📕 Language
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3 -1572B6.svg?&style=flat&logo=CSS3&logoColor=white"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=C&logoColor=white"> 
+<br/>
 <br/>
 
 ## 🏢 Collaboration Tool 
