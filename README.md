@@ -29,7 +29,7 @@
 > 
 > 2024.03 ~ 2025.03 PKNU Programming Club (WAP) 29th
 >
-> 2025.03 ~ PKNU EarthScience Programming Club 1th
+> 2025.03 ~ 2026.01 PKNU EarthScience Programming Club 1th
 
 <br/>
 
@@ -58,7 +58,6 @@
 <br/>
 <div align="center">  
 
-![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu219&show_icons=true&theme=cobalt) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinu219)](https://solved.ac/jinu219/)
  
 <br/>
